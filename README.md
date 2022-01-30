@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, my name is Nikita 👋
+
+I am interested in graphics, game and GUI programming.
+
+- I'm currently studying in SPBSUT.
+- I’m currently learning OpenGL.
+- I’m looking to collaborate on game programming.
+- How to reach me: Nyarstot@yandex.ru
 
 <!--
 **Nyarstot/nyarstot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
