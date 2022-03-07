@@ -4,7 +4,7 @@ I am interested in graphics, game and GUI programming.
 
 - I'm currently studying in SPBSUT.
 - I’m currently learning OpenGL.
-- I’m looking to collaborate on game programming.
+- I’m looking to collaborate on gamedev.
 - How to reach me: Nyarstot@yandex.ru
 
 <!--
