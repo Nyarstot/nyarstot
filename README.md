@@ -1,6 +1,6 @@
 ## Hi there, my name is Nikita Kozlov👋
 
-I am a third-year student at SPBSUT. Currently I'm working on Rema Engine, a visual novel game engine. <br>
+I am a third-year student at ITMO university. Currently I'm working on Rema Engine, a visual novel game engine. <br>
 I am working with C/C++, C#, Java, JS, Python, Asm and Prolog languages.
 <br>
 You can reach me here: *Nyarstot@yandex.ru* and *vk.com/nyarstot*
