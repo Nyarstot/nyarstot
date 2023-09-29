@@ -8,7 +8,7 @@ You can reach me here: *Nyarstot@yandex.ru* and *vk.com/nyarstot*
 
 <!-- I am interested in graphics, game and GUI programming.
 
-- I'm currently studying in SPBSUT.
+- I'm currently studying in ITMO University.
 - I’m currently learning OpenGL.
 - I’m looking to collaborate on gamedev.
 - How to reach me: Nyarstot@yandex.ru
