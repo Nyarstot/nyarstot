@@ -1,7 +1,7 @@
-## Hi there, my name is Nikita Kozlov👋
+## Hi there, my name is Nikita (Nyarstot) Kozlov👋
 
-I am a third-year student at ITMO university. Currently I'm working on Rema Engine, a visual novel game engine. <br>
-I am working with C/C++, C#, Java, JS, Python, Asm and Prolog languages.
+I am a first-year gamedev master's student at ITMO university. Currently working at "Melnitsa" animation studio as technical artist / programmer.
+Usually working with Python and C++ programming languages, but need to mess up with some JavaScript, C#, Assembly and Prolog sometimes.
 <br>
 You can reach me here: *Nyarstot@yandex.ru* and *vk.com/nyarstot*
 
