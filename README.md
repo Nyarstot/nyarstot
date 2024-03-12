@@ -1,9 +1,9 @@
 ## Hi there, my name is Nikita (Nyarstot) Kozlov👋
 
 I am a first-year gamedev master's student at ITMO university. Currently working at "Melnitsa" animation studio as technical artist / programmer.
-Usually working with Python and C++ programming languages, but need to mess up with some JavaScript, C#, Assembly and Prolog sometimes.
+My work is to make plug-ins and tools for DCC tools such as Maya, Toon Boom Harmony, Natron e.t.c. Usually working with Python, C++ and JavaScript programming languages. 
 <br>
-You can reach me here: *Nyarstot@yandex.ru* and *vk.com/nyarstot*
+You can reach me here: *Nyarstot@yandex.ru*
 
 
 <!-- I am interested in graphics, game and GUI programming.
